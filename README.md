@@ -1,12 +1,12 @@
 # UB-CSE446
-Reinforcement Learning class CSE4/546 with professor Alina Vereshchaka at University at Buffalo in 2022 spring semester 
+Reinforcement Learning course CSE4/546 with professor Alina Vereshchaka at University at Buffalo in 2022 spring semester 
 
 -----------
 ## 강화학습 (Reinforcement Learning)
 - 교환학생 파견대학교(University at Buffalo)에서 2022 spring semester 때 수강하였습니다. 
 - Prof. Alina Vereshchaka
 - 파일 크기로 인해 code render 오류가 자주 납니다. 새로고침 해주세요!
-#### I'm not sharing the codes. Do not use my assignments. 
+#### I'm not sharing the code. Do not copy it. 
 -----------
 ### 1. assignment1 
 #### : Defining and Solving RL Environments
