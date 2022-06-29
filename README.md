@@ -14,7 +14,7 @@ Reinforcement Learning class CSE4/546 with professor Alina Vereshchaka at Univer
 - saeyeonh_assignment1.ipynb : assignment1 python file 
 
 ### 2. assignment2 
-####: Deep Q-Networks
+#### : Deep Q-Networks
 - saeyeonh_assignment2.ipynb : assignment2 python file 
 - saeyeonh_assignment2.pdf : assignment2 report file
 
