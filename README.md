@@ -24,7 +24,7 @@ Reinforcement Learning class CSE4/546 with professor Alina Vereshchaka at Univer
 - saeyeonh_assignmetn3_report.pdf : assignment3 report file 
 
 ### 4. final project 
-#### : Cooperative MARL using Q-learning & Actor Critic (Using PressurePlate Environment) 
+#### : Cooperative MARL using Q-learning & Actor Critic (Solving PressurePlate Environment) 
 - result.gif : MARL result gif file 
 - saeyeonh_final_project.ipynb : final project python file 
 - saeyeonh_final_project.pdf : final project report file 
